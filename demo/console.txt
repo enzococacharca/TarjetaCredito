@@ -1,0 +1,22 @@
+INFORMACION DE TARJETA
+Marca		:SQUA
+N° Tarjeta	:5218530045239876
+Titular		:Juan Perez Perez
+Fech. Venc.	:31/01/2021
+
+VALIDA OPERACION
+Puede realizar la operación, el monto ingresado 900.0 Pesos es permitido.
+
+VALIDA TARJETA - FECHA VENCIMIENTO
+Tarjeta EXPIRIDA, N° Tarjeta: 5218530074569432, F.V.: 10/01/2019
+
+VALIDA TARJETAS
+Tarjetas Distintas
+Tarjeta 01 | Marca: SQUA, N° Tarjeta: 5218530074569432, BIN: 521853.
+Tarjeta 02 | Marca: SCO, N° Tarjeta: 5218540085435839, BIN: 521854.
+
+No se pudo encontrar el HOST, todo registro fallará.
+No se pudo enviar información HOST caido.
+
+SQLException: No suitable driver found for jdbc:mysql://localhost/test?user=admin&password=admin
+No se pudo actualizar los datos del saldo.
